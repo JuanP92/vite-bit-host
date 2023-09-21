@@ -9,9 +9,15 @@
  */
 
 {
+    "apps/my-app": {
+        "scope": "personal-micro-front.my-scope",
+        "version": "0.0.1",
+        "mainFile": "index.ts",
+        "rootDir": "my-scope/apps/my-app"
+    },
     "envs/my-react-env": {
         "scope": "personal-micro-front.my-scope",
-        "version": "1e13b2192c6e3c8cd28b09e8eef2a936607fbfb6",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "my-scope/envs/my-react-env"
     },

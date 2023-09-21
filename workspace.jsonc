@@ -62,5 +62,6 @@
     "envs": [
       "personal-micro-front.my-scope/envs/my-react-env"
     ]
-  }
+  },
+  "personal-micro-front.my-scope/apps/my-app": {}
 }
